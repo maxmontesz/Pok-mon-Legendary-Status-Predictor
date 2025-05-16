@@ -1,4 +1,3 @@
-# Pok-mon-Legendary-Status-Predictor
 # Pokémon Legendary Status Predictor
 
 ## Description
